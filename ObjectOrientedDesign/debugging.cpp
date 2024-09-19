@@ -1,5 +1,7 @@
 #include <iostream>
 
+// s3 의 값이 32768 이 되도록 프로그램을 수정해 보자.
+
 class LetDebug
 {
 	public:

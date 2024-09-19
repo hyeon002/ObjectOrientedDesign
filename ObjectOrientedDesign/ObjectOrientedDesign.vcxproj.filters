@@ -13,13 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\2주차_실습">
+      <UniqueIdentifier>{c9ade7f2-6e46-43a7-be87-fd9c47e1f6f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1주차_실습">
+      <UniqueIdentifier>{7292ad5d-e960-48c8-a7bf-e46c32e7d57d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="helloWorld.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="practice01.cpp">
+      <Filter>소스 파일\2주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="practice02.cpp">
+      <Filter>소스 파일\2주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="practice03.c">
+      <Filter>소스 파일\2주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="practice03.cpp">
+      <Filter>소스 파일\2주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="practice04.cpp">
+      <Filter>소스 파일\2주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="practice05.cpp">
+      <Filter>소스 파일\2주차_실습</Filter>
     </ClCompile>
     <ClCompile Include="debugging.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="helloWorld.cpp">
+      <Filter>소스 파일\1주차_실습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
