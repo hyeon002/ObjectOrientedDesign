@@ -19,24 +19,27 @@
     <Filter Include="소스 파일\1주차_실습">
       <UniqueIdentifier>{7292ad5d-e960-48c8-a7bf-e46c32e7d57d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3주차_실습">
+      <UniqueIdentifier>{a1479c35-7ce1-4d0a-970f-08301fa445ad}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="practice01.cpp">
+    <ClCompile Include="02_practice01.cpp">
       <Filter>소스 파일\2주차_실습</Filter>
     </ClCompile>
-    <ClCompile Include="practice02.cpp">
+    <ClCompile Include="02_practice02.cpp">
       <Filter>소스 파일\2주차_실습</Filter>
     </ClCompile>
-    <ClCompile Include="practice03.c">
+    <ClCompile Include="02_practice03.c">
       <Filter>소스 파일\2주차_실습</Filter>
     </ClCompile>
-    <ClCompile Include="practice03.cpp">
+    <ClCompile Include="02_practice03.cpp">
       <Filter>소스 파일\2주차_실습</Filter>
     </ClCompile>
-    <ClCompile Include="practice04.cpp">
+    <ClCompile Include="02_practice04.cpp">
       <Filter>소스 파일\2주차_실습</Filter>
     </ClCompile>
-    <ClCompile Include="practice05.cpp">
+    <ClCompile Include="02_practice05.cpp">
       <Filter>소스 파일\2주차_실습</Filter>
     </ClCompile>
     <ClCompile Include="debugging.cpp">
@@ -44,6 +47,30 @@
     </ClCompile>
     <ClCompile Include="helloWorld.cpp">
       <Filter>소스 파일\1주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="03_practice01.cpp">
+      <Filter>소스 파일\3주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="03_practice02.cpp">
+      <Filter>소스 파일\3주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="03_practice03.cpp">
+      <Filter>소스 파일\3주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="03_practice04.cpp">
+      <Filter>소스 파일\3주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="03_practice05.cpp">
+      <Filter>소스 파일\3주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="03_practice06.cpp">
+      <Filter>소스 파일\3주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="03_practice07.cpp">
+      <Filter>소스 파일\3주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="03_practice08.cpp">
+      <Filter>소스 파일\3주차_실습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
