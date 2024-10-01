@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\3주차_실습">
       <UniqueIdentifier>{a1479c35-7ce1-4d0a-970f-08301fa445ad}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4주차_실습">
+      <UniqueIdentifier>{7a7033cb-bd42-4d0f-873a-1a4a761ed4e6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02_practice01.cpp">
@@ -71,6 +74,27 @@
     </ClCompile>
     <ClCompile Include="03_practice08.cpp">
       <Filter>소스 파일\3주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="04_practice01.cpp">
+      <Filter>소스 파일\4주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="04_practice02.cpp">
+      <Filter>소스 파일\4주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="04_practice03.cpp">
+      <Filter>소스 파일\4주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="04_practice04.cpp">
+      <Filter>소스 파일\4주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="04_practice05.cpp">
+      <Filter>소스 파일\4주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="04_practice07.cpp">
+      <Filter>소스 파일\4주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="04_practice05_1.cpp">
+      <Filter>소스 파일\4주차_실습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
