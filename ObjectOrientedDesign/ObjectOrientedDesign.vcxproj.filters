@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\5주차_실습">
       <UniqueIdentifier>{78ec770f-97fb-4815-9c56-6b4e65361d42}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\6주차_실습">
+      <UniqueIdentifier>{7a240ea0-0574-4361-8077-a3b7841f5822}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02_practice01.cpp">
@@ -113,6 +116,21 @@
     </ClCompile>
     <ClCompile Include="05_practice05.cpp">
       <Filter>소스 파일\5주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="06_practice01.cpp">
+      <Filter>소스 파일\6주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="06_practice02.cpp">
+      <Filter>소스 파일\6주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="06_practice03.cpp">
+      <Filter>소스 파일\6주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="06_practice04.cpp">
+      <Filter>소스 파일\6주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="06_practice05.cpp">
+      <Filter>소스 파일\6주차_실습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
