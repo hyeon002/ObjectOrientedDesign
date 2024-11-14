@@ -7,13 +7,13 @@ public:
 	virtual ~CEO() {};
 };
 
-// CPO 클래스 ( rank 2 )
+// CPO 클래스 ( rank 2, CEO 를 가상 상속 )
 class CPO : virtual public CEO {
 public:
 	virtual ~CPO() {};
 };
 
-// Manager 클래스 ( CEO, CPO 다중상속 )
+// Manager 클래스 ( CEO, CPO 를 가상 상속 )
 class Manager : virtual public CEO, public CPO {
 public:
 	virtual ~Manager() {};
