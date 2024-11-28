@@ -42,12 +42,15 @@
     <Filter Include="소스 파일\12주차_실습">
       <UniqueIdentifier>{c988353a-abce-4c2e-ab4b-ac81932a19b1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Term_project">
-      <UniqueIdentifier>{f752a9a5-d14d-4815-8d74-9e3bb9e1e66d}</UniqueIdentifier>
-    </Filter>
     <Filter Include="헤더 파일">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\13주차_실습">
+      <UniqueIdentifier>{65ff9cea-8c23-41d3-9c88-fd9322963751}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Term_project">
+      <UniqueIdentifier>{f752a9a5-d14d-4815-8d74-9e3bb9e1e66d}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -230,6 +233,18 @@
     </ClCompile>
     <ClCompile Include="TermProject.cpp">
       <Filter>소스 파일\Term_project</Filter>
+    </ClCompile>
+    <ClCompile Include="13_practice01.cpp">
+      <Filter>소스 파일\13주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="13_practice02.cpp">
+      <Filter>소스 파일\13주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="13_practice03.cpp">
+      <Filter>소스 파일\13주차_실습</Filter>
+    </ClCompile>
+    <ClCompile Include="13_practice04.cpp">
+      <Filter>소스 파일\13주차_실습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
